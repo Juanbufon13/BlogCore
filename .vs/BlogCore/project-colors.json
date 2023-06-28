@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2a5c5dc4-6a9d-4314-999c-0aad056e7c0e": {
+      "ProjectGuid": "2a5c5dc4-6a9d-4314-999c-0aad056e7c0e",
+      "DisplayName": "BlogCore",
+      "ColorIndex": 0
+    },
+    "ba843756-1262-4499-92b8-e8d0d12df1f6": {
+      "ProjectGuid": "ba843756-1262-4499-92b8-e8d0d12df1f6",
+      "DisplayName": "BlogCore.AccesoDatos",
+      "ColorIndex": 1
+    },
+    "98a32a18-ac56-4e3b-808f-0c9578590055": {
+      "ProjectGuid": "98a32a18-ac56-4e3b-808f-0c9578590055",
+      "DisplayName": "BlogCore.Models",
+      "ColorIndex": 2
+    },
+    "70674287-782f-41e2-89e3-8061ab1038b9": {
+      "ProjectGuid": "70674287-782f-41e2-89e3-8061ab1038b9",
+      "DisplayName": "BlogCore.Utilidadez",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
